@@ -1,3 +1,4 @@
+
 import Footer from './component/foter/footer'
 import Banner from './module/Banner/banner'
 import Divider from './module/Divider/Divider'
